@@ -1,0 +1,11 @@
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\bin\Debug\Aula05maquina.exe.config
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\bin\Debug\Aula05maquina.exe
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\bin\Debug\Aula05maquina.pdb
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.csproj.AssemblyReference.cache
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.csproj.SuggestedBindingRedirects.cache
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.Form1.resources
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.Properties.Resources.resources
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.csproj.GenerateResource.cache
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.csproj.CoreCompileInputs.cache
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.exe
+C:\Users\william.dresch\source\repos\Aula05maquina\Aula05maquina\obj\Debug\Aula05maquina.pdb
